@@ -1,0 +1,23 @@
+header {
+    background-color: aqua;
+}
+
+.main-menu {
+    background-color: plum;
+}
+
+.main-section {
+    background-color: blanchedalmond;
+}
+
+.main-section-item {
+    background-color: lightcoral;
+}
+
+.sidebar-right {
+    background-color: darkkhaki;
+}
+
+footer {
+    background-color: palevioletred;
+}
